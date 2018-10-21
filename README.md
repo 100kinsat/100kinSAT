@@ -1,6 +1,8 @@
 # 100kinSAT
 100kinSAT - CanSat（カンサット）競技の入門キット
 
+詳細は[Wiki](https://github.com/ymt117/100kinSAT/wiki)を参照
+
 ### 概要
 ---
 
