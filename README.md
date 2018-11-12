@@ -12,7 +12,7 @@ CanSatと呼ばれる小型模擬人工衛星による惑星探査を模した�
 CanSatの製作を通して，衛星モデルの開発を学ぶことができます．
 
 <div align="center">
-<img src="https://github.com/ymt117/100kinSAT/blob/master/image/100kinSAT.JPG" alt="img" width="50%">
+<img src="https://github.com/ymt117/100kinSAT/blob/master/image/100kinSAT_ver3.1.JPG" alt="img" width="50%">
 </div>
 
 ### 競技ルール
