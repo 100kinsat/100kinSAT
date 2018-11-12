@@ -1,4 +1,4 @@
-#define LED 16
+#define LED 2
 
 void setup() {
   // LEDに接続したピンを「出力（OUTPUT）」に設定
