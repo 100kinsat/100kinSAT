@@ -18,6 +18,10 @@ CanSatの製作を通して，衛星モデルの開発を学ぶことができ�
 ### 競技ルール
 ---
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/ymt117/100kinSAT/master/image/sequential.png" alt="img" width="50%">
+</div>
+
 ### 主なCanSatコンペティション
 ---
 
