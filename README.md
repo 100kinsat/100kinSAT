@@ -13,9 +13,10 @@ CanSatの製作を通して，衛星モデルの開発を学ぶことができ�
 
 <div align="center">
 <img src="https://github.com/ymt117/100kinSAT/blob/master/image/100kinSAT_ver3.2_1.JPG" alt="img" width="50%">
+←100kinSAT ver3.2
 </div>
 
-写真は「100kinSAT ver3.2」
+
 
 ### 競技ルール
 ---
