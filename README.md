@@ -3,6 +3,12 @@
 
 ***詳細は[Wiki](https://github.com/ymt117/100kinSAT/wiki)を参照してください***
 
+ - #### [Wiki](https://github.com/ymt117/100kinSAT/wiki)
+ - #### [回路図](https://github.com/ymt117/100kinSAT/tree/master/data/Circuit)
+ - #### [ガーバデータ](https://github.com/ymt117/100kinSAT/tree/master/data/Gerber)
+ - #### [部品表](https://github.com/ymt117/100kinSAT/tree/master/data/BOM)
+ - #### [ソースコード](https://github.com/ymt117/100kinSAT/tree/master/src)
+
 ### 概要
 ---
 
